@@ -26,6 +26,7 @@ Dependencies
 This driver depends on:
 
 * `Adafruit CircuitPython <https://github.com/adafruit/circuitpython>`_
+* `asyncio <https://github.com/adafruit/Adafruit_CircuitPython_asyncio>`_
 
 Please ensure all dependencies are available on the CircuitPython filesystem.
 This is easily achieved by downloading
